@@ -1,0 +1,16 @@
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\bin\Debug\net5.0\Sifreleme.exe
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\bin\Debug\net5.0\Sifreleme.deps.json
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\bin\Debug\net5.0\Sifreleme.runtimeconfig.json
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\bin\Debug\net5.0\Sifreleme.runtimeconfig.dev.json
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\bin\Debug\net5.0\Sifreleme.dll
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\bin\Debug\net5.0\ref\Sifreleme.dll
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\bin\Debug\net5.0\Sifreleme.pdb
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\obj\Debug\net5.0\Sifreleme.csprojAssemblyReference.cache
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\obj\Debug\net5.0\Sifreleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\obj\Debug\net5.0\Sifreleme.AssemblyInfoInputs.cache
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\obj\Debug\net5.0\Sifreleme.AssemblyInfo.cs
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\obj\Debug\net5.0\Sifreleme.csproj.CoreCompileInputs.cache
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\obj\Debug\net5.0\Sifreleme.dll
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\obj\Debug\net5.0\ref\Sifreleme.dll
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\obj\Debug\net5.0\Sifreleme.pdb
+C:\Users\aytun\source\repos\Sifreleme\Sifreleme\obj\Debug\net5.0\Sifreleme.genruntimeconfig.cache
